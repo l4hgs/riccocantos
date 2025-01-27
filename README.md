@@ -1,2 +1,2 @@
-# riccocantos
-pano magdelete ng repository ba
+# 1st ever repository
+ps: hindi ko po madelete
